@@ -39,7 +39,7 @@ export default function AuthScreen({ email, setEmail, authMessage, setAuthMessag
         <div style={{ fontSize: 11, letterSpacing: 3, color: "#94a3b8", textTransform: "uppercase", marginBottom: 8 }}>
           Sync across devices
         </div>
-        <h1 style={{ margin: "0 0 8px", fontSize: 22, fontWeight: 700 }}>Sign in to your roadmap</h1>
+        <h1 style={{ margin: "0 0 8px", fontSize: 22, fontWeight: 700, color: "white" }}>Sign in to your roadmap</h1>
         <p style={{ margin: "0 0 24px", fontSize: 14, color: "#94a3b8", lineHeight: 1.5 }}>
           Progress is saved to your account and stays in sync on phone, laptop, and tablet.
         </p>
